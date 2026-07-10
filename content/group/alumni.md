@@ -58,13 +58,13 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
       <td style="min-width:100px"><center><img src="/images/group/hjmin.jpeg" width="80px" alt=""></center></td>
       <td>Hyungjoon Min</td>
       <td>Master<br>(2025)</td>
-      <td>Currently: Researcher at Seoul National University</td>
+      <td>Currently: Graduate student at Seoul National University</td>
     </tr>
     <tr>
       <td style="min-width:100px"></td>
       <td>Chohyun Lee</td>
       <td>2020-2022</td>
-      <td>Currently: Korea Polar Research Institute (KOPRI)</td>
+      <td></td>
     </tr>
     <tr>
       <td style="min-width:100px"></td>
