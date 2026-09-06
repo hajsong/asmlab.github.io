@@ -12,6 +12,17 @@ weight: 2
   <ul class="slider-container">
     <li>
       <div class="card border-0">
+        <img src="/images/grad_collage.jpg" class="card-img-top" loading="lazy" alt="...">
+        <div class="card-body p-0 pt-2">
+          <div class="d-flex">
+            <h3 class="flex-grow-1 h5">February 2026</h3>
+            <p class="px-2">with Dr. Cho and Dr. Kwak</p>
+          </div>
+        </div>
+      </div>
+    </li>
+    <!-- <li>
+      <div class="card border-0">
         <img src="/images/with_John_9.jpeg" class="card-img-top" loading="lazy" alt="...">
         <div class="card-body p-0 pt-2">
           <div class="d-flex">
@@ -20,7 +31,7 @@ weight: 2
           </div>
         </div>
       </div>
-    </li>
+    </li> -->
     <li>
       <div class="card border-0">
         <img src="/images/group_3.jpeg" class="card-img-top" loading="lazy" alt="...">
